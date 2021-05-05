@@ -1,4 +1,4 @@
-# simple-linear-regression-exercises-R
+# simple-linear-regression-R
 
 Coding exercises for Fall 2019 GU4205 Linear Regression Models at Columbia University.
 
